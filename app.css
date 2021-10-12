@@ -73,6 +73,7 @@ table {
         .main-information {
             box-sizing: border-box;
             padding: 45px;
+	    padding-top: 50px;
             height: 477px;
             width: 100%;
         }
